@@ -10,6 +10,10 @@ Usage
 -------
 Put the .dll in the folder Documents\Tabbles\plugins and restart Tabbles. If everything work as it should, you should see a new Menu Item under the "Plugins" Menu in Tabbles.
 
+Output
+-------
+The plugins gives verbose output in the Tabbles Debug Log: Tools > Advanced > Show Debug Log
+We'll put there a button that opens the log...
 
 License 
 -------
